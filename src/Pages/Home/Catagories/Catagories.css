@@ -1,0 +1,180 @@
+.one {
+  position: relative;
+}
+.one::before {
+  content: "ROMANCE";
+  background-color: rgb(60, 60, 60, 0.4);
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  width: 244px;
+  height: 60px;
+  top: 50px;
+  position: absolute;
+}
+.two {
+  position: relative;
+}
+.two::before {
+  content: "ACTION & ADVENTURE";
+  background-color: rgb(60, 60, 60, 0.4);
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  width: 244px;
+  height: 60px;
+  top: 50px;
+  position: absolute;
+}
+.three {
+  position: relative;
+}
+.three::before {
+  content: "MYSTERY & THRILLER";
+  background-color: rgb(60, 60, 60, 0.4);
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  width: 244px;
+  height: 60px;
+  top: 50px;
+  position: absolute;
+}
+.four {
+  position: relative;
+}
+.four::before {
+  content: "BIOGRAPHY & HISTORY";
+  background-color: rgb(60, 60, 60, 0.4);
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  width: 244px;
+  height: 60px;
+  top: 50px;
+  position: absolute;
+}
+.five {
+  position: relative;
+}
+.five::before {
+  content: "CHILDREN'S";
+  background-color: rgb(60, 60, 60, 0.4);
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  width: 244px;
+  height: 60px;
+  top: 50px;
+  position: absolute;
+}
+.six {
+  position: relative;
+}
+.six::before {
+  content: "YOUNG ADULT";
+  background-color: rgb(60, 60, 60, 0.4);
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  width: 244px;
+  height: 60px;
+  top: 50px;
+  position: absolute;
+}
+.seven {
+  position: relative;
+}
+.seven::before {
+  content: "FANTASY";
+  background-color: rgb(60, 60, 60, 0.4);
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  width: 244px;
+  height: 60px;
+  top: 50px;
+  position: absolute;
+}
+.eight {
+  position: relative;
+}
+.eight::before {
+  content: "HISTORICAL FICTION";
+  background-color: rgb(60, 60, 60, 0.4);
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  width: 244px;
+  height: 60px;
+  top: 50px;
+  position: absolute;
+}
+.nine {
+  position: relative;
+}
+.nine::before {
+  content: "HORROR";
+  background-color: rgb(60, 60, 60, 0.4);
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  width: 244px;
+  height: 60px;
+  top: 50px;
+  position: absolute;
+}
+.ten {
+  position: relative;
+}
+.ten::before {
+  content: "LITERARY FICTION";
+  background-color: rgb(60, 60, 60, 0.4);
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  width: 244px;
+  height: 60px;
+  top: 50px;
+  position: absolute;
+}
+.eleven {
+  position: relative;
+}
+.eleven::before {
+  content: "NON-FICTION";
+  background-color: rgb(60, 60, 60, 0.4);
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  width: 244px;
+  height: 60px;
+  top: 50px;
+  position: absolute;
+}
+.twelve {
+  position: relative;
+}
+.twelve::before {
+  content: "SCIENCE-FICTION";
+  background-color: rgb(60, 60, 60, 0.4);
+  color: white;
+  text-align: center;
+  line-height: 50px;
+  font-size: 20px;
+  width: 244px;
+  height: 60px;
+  top: 50px;
+  position: absolute;
+}
